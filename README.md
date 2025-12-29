@@ -1,13 +1,15 @@
 ☕ Coffee Shop Sales Analysis Dashboard
 
 
-📌 Project Overview
+📌 Project Overview:
+
 The main objective of this project is to analyze retail sales data for a coffee shop to gain actionable insights that will enhance its overall business performance. By leveraging advanced Excel features, this project transforms raw transactional data into a visual story that identifies peak sales periods, customer preferences, and store-specific performance.
 
 
 
 
-📊 Key Business Questions Addressed
+📊 Key Business Questions Addressed:
+
 The dashboard was designed to answer several critical business questions:
 
 
@@ -28,7 +30,8 @@ Order Metrics: What is the average price/order per person?
 
 Product Performance: Which products and categories (e.g., Bakery, Coffee, Tea) are the best-selling in terms of quantity and revenue? 
 
-🛠️ Technical Tools Used
+🛠️ Technical Tools Used:
+
 To handle large datasets and create a dynamic user experience, I utilized several advanced Excel features:
 
 Power Query Editor: For data cleaning, transformation, and shaping.
@@ -43,7 +46,8 @@ Slicers: Interactive filters for MonthWise_Sales and DayWise_Sales to allow user
 
 Dynamic Charts: Pie charts for category distribution, bar charts for store-wise footfall, and line graphs for hourly trends.
 
-📈 Dashboard Insights (Snapshot)
+📈 Dashboard Insights (Snapshot):
+
 Based on the analysis, the coffee shop achieved:
 
 Total Sales: $698,812.33
@@ -54,21 +58,24 @@ Average Order Value: 4.68
 
 Best Sellers: "Brewed Chai tea" and "Barista Espresso" rank among the top 5 categories.
 
-📂 Repository Structure
+📂 Repository Structure:
+
 Coffee_Final_Project.xlsx: The main Excel file containing the Power Pivot model and the interactive dashboard.
 
 Dashboard_Screenshot: The Screenshot of the Dashboard.
 
 CoffeeShop_Raw.xlsx: Contains the raw dataset.
 
-🚀 How to Use
+🚀 How to Use:
+
 Download the .xlsx file from this repository.
 
 Open the file in Microsoft Excel (ensure Power Pivot is enabled).
 
 Use the Slicers on the left side of the dashboard to filter the data by month or day and watch the visualizations update in real-time.
 
-💡 Conclusion
+💡 Conclusion:
+
 The Coffee Shop Sales Analysis project successfully transformed raw transactional data into a strategic tool for operational efficiency. Key findings from the analysis include:
 
 Performance Leaders: Astoria and Hell's Kitchen emerged as the highest-performing locations in terms of both footfall and total revenue.
@@ -79,7 +86,8 @@ Operational Timing: Sales activity peaks significantly on Fridays, providing a c
 
 Business Impact: By utilizing the interactive slicers, stakeholders can now monitor the Average Order Value ($4.68) and Total Foot Fall (149,116) in real-time to measure the success of promotional campaigns.
 
-🚀 Future Improvements
+🚀 Future Improvements:
+
 To further evolve this project and deepen the insights, the following enhancements are planned:
 
 
