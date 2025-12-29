@@ -1,4 +1,6 @@
 ☕ Coffee Shop Sales Analysis Dashboard
+
+
 📌 Project Overview
 The main objective of this project is to analyze retail sales data for a coffee shop to gain actionable insights that will enhance its overall business performance. By leveraging advanced Excel features, this project transforms raw transactional data into a visual story that identifies peak sales periods, customer preferences, and store-specific performance.
 
